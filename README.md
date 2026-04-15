@@ -1,4 +1,4 @@
-# 🕹️ Yash Dhanawde | Unity Game Architect
+# 🕹️ Yash Dhanawde | Unity Game Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&width=500&lines=Unity+Game+Developer;Web3+Integration+Specialist;C%23+and+Multiplayer+Systems;Building+the+Open+Metaverse" alt="Typing SVG" />
